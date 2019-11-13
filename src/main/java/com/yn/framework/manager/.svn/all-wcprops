@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Card/!svn/ver/273/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/manager
+END
+YNFragmentTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Card/!svn/ver/273/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/manager/YNFragmentTransaction.java
+END
+YNFragmentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Card/!svn/ver/273/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/manager/YNFragmentManager.java
+END
+OnFragmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Card/!svn/ver/273/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/manager/OnFragmentListener.java
+END
+FragmentParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Card/!svn/ver/273/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/manager/FragmentParams.java
+END
+YNMyFragmentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Card/!svn/ver/273/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/manager/YNMyFragmentManager.java
+END
+CacheManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/Card/!svn/ver/273/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/manager/CacheManager.java
+END

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--登陆api-->
+    <array name="yn_login">
+        <item>url:app/code/login</item>
+        <item>key:username,code</item>
+        <item>host:2</item>
+        <item>method:onLoginSuccess</item>
+        <item>methodError:onLoginError</item>
+    </array>
+
+
+</resources>

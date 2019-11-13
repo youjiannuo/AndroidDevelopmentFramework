@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Card/!svn/ver/273/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/http
+END
+Http.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Card/!svn/ver/338/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/http/Http.java
+END
+HttpExecute.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Card/!svn/ver/339/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/http/HttpExecute.java
+END
+TokenFailureManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/Card/!svn/ver/273/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/http/TokenFailureManager.java
+END
+HttpConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Card/!svn/ver/318/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/http/HttpConfig.java
+END
+HttpManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Card/!svn/ver/273/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/http/HttpManager.java
+END
+HttpVisitCallBack.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Card/!svn/ver/273/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/http/HttpVisitCallBack.java
+END

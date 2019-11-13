@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layout"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="@drawable/yn_click"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <com.yn.framework.review.YNTextView
+        android:id="@+id/name"
+        style="@style/wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:paddingBottom="12dp"
+        android:paddingTop="12dp"
+        android:textColor="#FF333333"
+        android:textSize="18sp"
+        app:set_data_name="name" />
+
+    <View
+        android:id="@+id/line"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#FFCCCCCC" />
+</LinearLayout>

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Card/!svn/ver/273/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/data
+END
+YNSharedPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/Card/!svn/ver/273/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/data/YNSharedPreferences.java
+END
+UserSharePreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Card/!svn/ver/339/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/data/UserSharePreferences.java
+END
+DataUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Card/!svn/ver/273/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/data/DataUtil.java
+END
+JSON.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Card/!svn/ver/338/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/data/JSON.java
+END
+MyGson.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Card/!svn/ver/273/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/data/MyGson.java
+END
+SerializedName.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Card/!svn/ver/273/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/data/SerializedName.java
+END
+SQLGETetWritableData.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Card/!svn/ver/338/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/data/SQLGETetWritableData.java
+END
+ClassSetAndGetKeyAndValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Card/!svn/ver/338/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/data/ClassSetAndGetKeyAndValue.java
+END

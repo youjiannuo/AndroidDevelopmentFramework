@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Card/!svn/ver/273/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/review/manager
+END
+YNManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/Card/!svn/ver/273/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/review/manager/YNManager.java
+END
+OnBackListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Card/!svn/ver/273/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/review/manager/OnBackListener.java
+END
+YNListenerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Card/!svn/ver/273/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/review/manager/YNListenerManager.java
+END
+OnYNBackListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Card/!svn/ver/273/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/review/manager/OnYNBackListener.java
+END
+YNController.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Card/!svn/ver/338/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/review/manager/YNController.java
+END
+YJNView.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Card/!svn/ver/338/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/review/manager/YJNView.java
+END
+YNResourceUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Card/!svn/ver/273/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/review/manager/YNResourceUtil.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Card/!svn/ver/273/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/review/manager/Util.java
+END
+YNClickBack.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Card/!svn/ver/273/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/review/manager/YNClickBack.java
+END
+ActivityIntent.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Card/!svn/ver/273/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/review/manager/ActivityIntent.java
+END

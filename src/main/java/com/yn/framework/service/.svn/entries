@@ -1,0 +1,49 @@
+10
+
+dir
+0
+http://hardy.cao@repository.businessconnectchina.com/svn/Card/Android/ReAndroid/JingweiCard_Dev/framework/src/main/java/com/yn/framework/service
+http://hardy.cao@repository.businessconnectchina.com/svn/Card
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+bd452788-8ab1-437e-85b4-2e76cd57845d
+
+YNBinder.java
+file
+
+
+
+add
+
+YNServiceConnection.java
+file
+
+
+
+add
+
+YnService.java
+file
+
+
+
+add
+

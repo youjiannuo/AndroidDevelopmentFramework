@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="YNView">
+        <!--设置JSON数据对应的Key-->
+        <attr name="set_data_name" format="string" />
+        <!--设置多个JSON数据对应的key，请用,分开多个字符串。这个主要是为了应付布局一样，但是给的数据格式不同，-->
+        <attr name="set_data_names" format="string" />
+        <!--传入多个参数-->
+        <attr name="set_data_name_add" format="string" />
+        <!--添加到字体前面-->
+        <attr name="startString" format="string" />
+        <!--添加到字体后面-->
+        <attr name="endString" format="string" />
+        <attr name="is_empty" format="boolean" />
+        <attr name="type">
+            <enum name="array" value="1" />
+            <enum name="normal" value="0" />
+            <enum name="start" value="2" />
+            <enum name="click" value="3" />
+        </attr>
+
+        <!--布局，主要是给listView的item-->
+        <attr name="layout_value" format="integer" />
+        <!--标题的布局，主要是listView的标题-->
+        <attr name="layout_title" format="integer" />
+        <!--头部布局 主要是listView头部-->
+        <attr name="layout_head" format="integer" />
+        <!--尾部-->
+        <attr name="layout_foot" format="integer" />
+        <!--listView需要显示多少列-->
+        <attr name="list_col" format="integer" />
+        <!--加载更多的数据 如果是负数就不加载了-->
+        <attr name="list_load_more" format="integer" />
+        <!--点击按钮事件 ,将会读取onClickValue-->
+        <attr name="onClick">
+            <!--http请求-->
+            <enum name="http" value="1" />
+            <!--activity跳转-->
+            <enum name="activity" value="2" />
+            <!--普通跳转-->
+            <enum name="normal" value="3" />
+            <!--点击事件-->
+            <enum name="click" value="4" />
+        </attr>
+        <!--跳转的参数-->
+        <attr name="onClickKey" format="string" />
+        <!--配置一些参数，例如http请求或者activity-->
+        <attr name="onClickValue" format="integer" />
+        <!--携带参数字-->
+        <attr name="value" format="string" />
+        <!--List发送http请求代码-->
+        <attr name="list_http" format="integer" />
+        <!--是否显示所有的控件-->
+        <attr name="list_show_all_view" format="boolean" />
+        <!--每一个控件的高度-->
+        <attr name="list_item_height" format="dimension" />
+        <!--这个是屏幕的宽的比例-->
+        <attr name="list_item_weight" format="integer" />
+        <!--是否需要显示加载完全的提示-->
+        <attr name="list_show_load_over" format="boolean" />
+        <!--只需要显示多少条-->
+        <attr name="list_show_num" format="integer" />
+        <!--是否只需要获取一次请求-->
+        <attr name="http_first" format="boolean" />
+        <!--点击跳转控件ID ,主要是输入框-->
+        <attr name="onClickValueViewId" format="string" />
+        <!--回调的对象-->
+        <attr name="back_class" format="string" />
+        <!--那个字符不需要这是-->
+        <attr name="not_set_data" format="string" />
+        <!--listView的item 背景-->
+        <attr name="onItemBackground" format="integer" />
+        <attr name="onItemLineHeight" format="dimension" />
+        <!--是否需要横线存在-->
+        <attr name="line_visible" format="boolean" />
+        <attr name="onItemLineColor" format="color" />
+        <!--图片的高度，这个会自动来压缩-->
+        <attr name="image_height" format="dimension" />
+        <!--图片的宽度，这个会自动来压缩-->
+        <attr name="image_width" format="dimension" />
+        <attr name="image_width_size" format="integer" />
+        <!--編輯框界面-->
+        <attr name="inputType">
+            <!--身份证账号-->
+            <enum name="idCard" value="1" />
+            <!--手机号码-->
+            <enum name="phone" value="2" />
+        </attr>
+        <!---检查参数的条件-->
+        <!--mix:4 commit:输入的数字不可以小于4位,max:10 commit:输入的数字不可以大于10-->
+        <attr name="checkParameters" format="string" />
+        <!--这个是替代,如果TextView 设置的参数是某一个数字,那么我们需要替换成别的参数,编写方法如下-->
+        <!--old:a,replace:b ,也就是a替代为b-->
+        <!--old:a,replace all:b ,也就是a替代为b,而且也把startString标签和endString给替代掉-->
+        <attr name="replace" format="string" />
+
+        <!--发http成功-->
+        <attr name="httpSuccess">
+            <!--关闭当前页面-->
+            <flag name="finish" value="2" />
+            <flag name="jump" value="4" />
+        </attr>
+        <!--umeng点击事件的key-->
+        <attr name="umeng_key" format="string" />
+        <!--弹出框 范例 , button=取消,确定&title=提示&msg=哈哈哈-->
+        <attr name="remind" format="string" />
+    </declare-styleable>
+
+    <declare-styleable name="YNTimeTextView">
+        <attr name="textTime" format="string" />
+        <attr name="inputTime" format="string" />
+    </declare-styleable>
+
+    <declare-styleable name="YNWatch">
+        <attr name="index" format="integer" />
+        <attr name="msg" format="string" />
+        <attr name="margin" format="dimension" />
+        <attr name="bottom" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="YNImageView">
+        <!--设置图片的圆角-->
+        <attr name="corners" format="dimension" />
+        <!--设置图的是否为圆-->
+        <attr name="rounded" format="boolean" />
+        <!--默认的图片-->
+        <attr name="default_bitmap" format="integer" />
+        <!--只为空就隐藏-->
+        <attr name="is_value_empty_visible" format="boolean" />
+        <!--点击查看大图-->
+        <attr name="click_see_larger" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="HfhNumAnimationTextView">
+        <attr name="animation" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="YJNExpandableListView">
+        <attr name="group_layout" format="integer" />
+        <attr name="child_layout" format="integer" />
+        <attr name="child_name" format="string" />
+    </declare-styleable>
+
+    <declare-styleable name="YJNRecyclerView">
+        <attr name="item_layout" format="integer" />
+        <attr name="item_layout_height" format="dimension" />
+        <attr name="item_layout_width" format="dimension" />
+        <attr name="item_orientation">
+            <flag name="vertical" value="0" />
+            <flag name="horizontal" value="1" />
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="YNLinearLayout">
+        <attr name="onClickMethod" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="YNTextView">
+        <attr name="set_data_name_string" format="string" />
+        <attr name="is_null_default" format="string" />
+        <attr name="startStringColor" format="color" />
+        <attr name="startStringTextSize" format="dimension" />
+        <attr name="endStringColor" format="color" />
+        <attr name="endStringTextSize" format="dimension" />
+        <attr name="text_type">
+            <flag name="text" value="0" />
+            <flag name="money" value="1" />
+            <flag name="html" value="2" />
+            <!--值为空就隐藏-->
+            <flag name="null_visible" value="4" />
+            <!---值为空就隐藏-->
+            <flag name="null_invisible" value="8" />
+            <!--数组数据-->
+            <flag name="array" value="16" />
+            <flag name="operation_show" value="32" />
+            <flag name="null_visible_parent" value="64" />
+        </attr>
+        <attr name="operator_num" format="string" />
+        <attr name="array" format="integer" />
+        <attr name="select_value" format="string" />
+        <!--<attr name="onClickMethod" format="boolean" />-->
+    </declare-styleable>
+    <declare-styleable name="DownAndUpView">
+        <attr name="text" format="integer" />
+        <attr name="open_image" format="integer" />
+        <attr name="close_image" format="integer" />
+        <attr name="default_status">
+            <flag name="close" value="0" />
+            <flag name="open" value="1" />
+        </attr>
+    </declare-styleable>
+
+</resources>
